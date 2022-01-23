@@ -1,6 +1,6 @@
 Greetings 🙏,
 
-I am a graduate student at Duke University currently studying for a Master's degree in Data Science.
+I am a graduate student at Duke University currently studying for a Master's degree in Data Science/Machine Learning.
 
 Insatiable desire to Enquire, Endeavor and Excel in the field of Data Science.
 
