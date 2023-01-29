@@ -1,8 +1,8 @@
 Greetings,
 
-I am a graduate student at Duke University currently studying for a Master's degree in Data Science/Machine Learning.
+I am a Data Science Master's Graduate student with a Passion for Enquiry and Excellence.
 
-Insatiable desire to Enquire, Endeavor and Excel in the field of Data Science.
+As a Master's graduate in Data Science/Machine Learning from Duke University, I bring a deep understanding of various programming languages, machine learning algorithms, and data visualization tools. My passion for data science is driven by an insatiable desire to Enquire, Endeavor, and Excel in this field.
 
 My skills include:
 
